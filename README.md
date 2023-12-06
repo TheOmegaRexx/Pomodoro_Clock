@@ -31,9 +31,5 @@ A simple Pomodoro Timer implemented in Python using the `customtkinter` library.
 - Python 3.x
 - `customtkinter` library
 
-## Credits
 
-- `customtkinter` library used for GUI elements.
-
-Feel free to contribute, suggest improvements, or use it as a starting point for your own Pomodoro Timer application!
 
